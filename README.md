@@ -4,6 +4,6 @@ Chatify is a real-time messaging app built on the MERN stack (MongoDB, Express, 
 ## Tech Stack
 **Client:** React JS, Tailwind CSS
 
-**Server:** Node JS, Express JS
+**Server:** Node JS, Express JS, Socket.io
 
 **Database:** Mongo DB
